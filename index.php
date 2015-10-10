@@ -12,11 +12,13 @@
 		<div class="col-md-12">
 		
 			<div id="login">
+
 					
 					<div>Iniciar Sesión</div>
 					
 					<div>Cerrar Sesíon</div>
 					
+
 			</div>
 		
 		</div>
