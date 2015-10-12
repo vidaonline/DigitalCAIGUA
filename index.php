@@ -17,6 +17,8 @@
 					<div>Iniciar Sesión</div>
 					
 					<div>Cerrar Sesión</div>
+
+					<div>Password</div>
 					
 
 			</div>
