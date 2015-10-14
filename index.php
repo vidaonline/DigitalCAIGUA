@@ -13,9 +13,7 @@
 		
 			<div id="login">
 
-					
-					<div>Iniciar Sesión</div>
-					
+						
 					<div>Cerrar Sesión</div>
 
 					<div>Password</div>
@@ -41,6 +39,7 @@ function clientImage(key) {
 	
 
 }
+
 					
 
 			</div>
