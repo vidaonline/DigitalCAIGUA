@@ -17,7 +17,6 @@
 					
 					<div>Cerrar Sesíon</div>
 					
-					Hola
 					
 			</div>
 		
