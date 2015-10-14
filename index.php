@@ -17,6 +17,8 @@
 					
 					<div>Cerrar Sesión</div>
 					
+					Hola
+					
 			</div>
 		
 		</div>
