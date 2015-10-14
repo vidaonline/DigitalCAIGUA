@@ -15,7 +15,7 @@
 					
 					<div>Iniciar Sesión</div>
 					
-					<div>Cerrar Sesión</div>
+					<div>Cerrar Sesíon</div>
 					
 					Hola
 					
